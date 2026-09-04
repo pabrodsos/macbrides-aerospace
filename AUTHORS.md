@@ -13,7 +13,7 @@ Este repositorio es una copia de portfolio mantenida por [Pablo Manuel Rodrígue
 
 Carlos Mantilla · Héctor García · Diego Alonso · Telmo Aracama · Mario López · Ignacio Gutiérrez · Pablo Manuel Rodríguez Sosa.
 
-La participación de Pablo fue transversal en preparación y exploración de datos, modelado, evaluación y documentación. Los resultados son del equipo; esta presentación no atribuye a una sola persona la autoría del conjunto.
+Mi participación fue transversal en preparación y exploración de datos, modelado, evaluación y documentación. Los resultados son del equipo; esta presentación no atribuye a una sola persona la autoría del conjunto.
 
 ## Sobre esta edición
 
