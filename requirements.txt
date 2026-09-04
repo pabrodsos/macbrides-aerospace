@@ -1,0 +1,3 @@
+# Tested data inspection environment: Python 3.14
+pandas==3.0.5
+pyarrow==25.0.1

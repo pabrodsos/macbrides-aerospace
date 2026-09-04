@@ -1,0 +1,26 @@
+{
+  "14L/32R": {
+    "lat_despegue": 40.476251220703126,
+    "lon_despegue": -3.538885498046875,
+    "lat_despegue_onground": 40.49050411473752,
+    "lon_despegue_onground": -3.553399705267574
+  },
+  "14R/32L": {
+    "lat_despegue": 40.46181138156401,
+    "lon_despegue": -3.5526470630199793,
+    "lat_despegue_onground": 40.47955513000488,
+    "lon_despegue_onground": -3.5705495066457127
+  },
+  "18L/36R": {
+    "lat_despegue": 40.52110290527344,
+    "lon_despegue": -3.5592764074152328,
+    "lat_despegue_onground": 40.50592629384187,
+    "lon_despegue_onground": -3.5592269897460938
+  },
+  "18R/36L": {
+    "lat_despegue": 40.515380859375,
+    "lon_despegue": -3.5747389359907515,
+    "lat_despegue_onground": 40.49821239406779,
+    "lon_despegue_onground": -3.574653105302275
+  }
+}

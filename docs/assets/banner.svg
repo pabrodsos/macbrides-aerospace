@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">MacBrides Aerospace</title><desc id="desc">Time-to-takeoff prediction. Madrid-Barajas. University data science project.</desc>
+<rect width="1200" height="360" rx="20" fill="#0b1628"/>
+<g fill="none" stroke="#20324b" stroke-width="1"><circle cx="1020" cy="180" r="80"/><circle cx="1020" cy="180" r="140"/><circle cx="1020" cy="180" r="205"/><path d="M810 180h390M1020 0v360"/></g>
+<path d="M805 300 Q900 300 950 230 T1120 70" fill="none" stroke="#46d9c1" stroke-width="3" stroke-dasharray="7 8"/>
+<circle cx="950" cy="230" r="6" fill="#46d9c1"/><circle cx="1120" cy="70" r="7" fill="#46d9c1"/>
+<text x="64" y="80" font-family="Arial,sans-serif" font-size="16" letter-spacing="4" fill="#46d9c1">DATA SCIENCE / AVIATION</text>
+<text x="60" y="158" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#f2f6fc">MacBrides</text>
+<text x="60" y="220" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#f2f6fc">Aerospace</text>
+<text x="64" y="272" font-family="Arial,sans-serif" font-size="23" fill="#a9bbd1">Time-to-takeoff prediction · Madrid-Barajas</text>
+<text x="64" y="322" font-family="Arial,sans-serif" font-size="14" fill="#a9bbd1">UCM · PROYECTO DE DATOS II · 2024/25</text>
+</svg>

@@ -1,0 +1,13 @@
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+._*
+.env
+.env.*
+!.env.example
+# Artefactos de experimentos nuevos
+runs/

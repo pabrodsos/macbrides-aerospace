@@ -1,0 +1,16 @@
+# Dependencias de consulta/experimentación; entorno académico no reconstruido.
+-r requirements.txt
+jupyterlab
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost
+geopandas
+shapely
+pyModeS
+plotly
+dash
+dask[dataframe]
+tqdm
